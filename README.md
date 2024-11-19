@@ -1,10 +1,10 @@
-# Wikipedia Search Engine Project
+#Search Engine Project
 
 ![wikipedia_imgjpg](https://github.com/Gavision97/Information-Retrieval---Wikipedia-Search-Engine-Project/assets/150701079/998fd2d9-d319-4ad5-bc30-1c85ed92914a)
 
 
 ## Overview
-The Wikipedia Search Engine project is a comprehensive search tool designed specifically for Wikipedia articles. Leveraging various techniques, including the generation of inverted indexes for both titles and text from the Wikipedia corpus, the search engine aims to provide relevant and accurate results for user queries.
+The Search Engine project is a comprehensive search tool designed specifically for Wikipedia articles. Leveraging various techniques, including the generation of inverted indexes for both titles and text from the Wikipedia corpus, the search engine aims to provide relevant and accurate results for user queries.
 
 ## Features
 - **Inverted Index Generation:** The project generates inverted indexes for both titles and text from the Wikipedia corpus. These indexes play a crucial role in quickly retrieving relevant documents based on user queries.
