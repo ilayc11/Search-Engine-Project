@@ -1,4 +1,4 @@
-#Search Engine Project
+# Search Engine Project
 
 ![wikipedia_imgjpg](https://github.com/Gavision97/Information-Retrieval---Wikipedia-Search-Engine-Project/assets/150701079/998fd2d9-d319-4ad5-bc30-1c85ed92914a)
 
